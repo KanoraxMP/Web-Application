@@ -1,0 +1,18 @@
+body {
+    font-family: "Niramit";
+    font-weight: 400;
+    font-style: normal;
+    width: 100%;
+    background-image: url(sunset-night-landscape-wallpaper.jpg);
+    background-size: 100% 100vh;
+}
+
+/* .input-box input{
+    width: 100%;
+    height: 100%;
+    background: transparent;
+    border: none;
+} */
+.input-box input ::placeholder {
+    color: #000;
+}
